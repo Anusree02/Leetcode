@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anusree02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Anusree02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anusree02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/Anusree02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Anusree02/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anusree02/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Anusree02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anusree02/Leetcode/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anusree02/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Anusree02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
