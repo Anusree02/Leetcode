@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anusree02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anusree02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anusree02/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Anusree02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anusree02/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Anusree02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1524-string-matching-in-an-array](https://github.com/Anusree02/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Anusree02/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Anusree02/Leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Anusree02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anusree02/Leetcode/tree/master/0229-majority-element-ii) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anusree02/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anusree02/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Anusree02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
