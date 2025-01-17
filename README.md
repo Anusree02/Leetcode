@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anusree02/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anusree02/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anusree02/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2792-neighboring-bitwise-xor](https://github.com/Anusree02/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anusree02/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anusree02/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anusree02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Anusree02/Leetcode/tree/master/0338-counting-bits) |
+| [2792-neighboring-bitwise-xor](https://github.com/Anusree02/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
