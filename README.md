@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Anusree02/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anusree02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Anusree02/Leetcode/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/Anusree02/Leetcode/tree/master/0476-number-complement) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anusree02/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Recursion
 |  |
