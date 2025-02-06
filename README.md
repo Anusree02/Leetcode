@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anusree02/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Anusree02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anusree02/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Anusree02/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anusree02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Anusree02/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anusree02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anusree02/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Anusree02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anusree02/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Anusree02/Leetcode/tree/master/0268-missing-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anusree02/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anusree02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anusree02/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anusree02/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Anusree02/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anusree02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Anusree02/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anusree02/Leetcode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Anusree02/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/Anusree02/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anusree02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-day-of-the-year](https://github.com/Anusree02/Leetcode/tree/master/1260-day-of-the-year) |
 ## Binary Search
@@ -87,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anusree02/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Anusree02/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Anusree02/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anusree02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Anusree02/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Anusree02/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anusree02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Anusree02/Leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Anusree02/Leetcode/tree/master/0476-number-complement) |
