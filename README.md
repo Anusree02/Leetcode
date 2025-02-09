@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anusree02/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anusree02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Anusree02/Leetcode/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/Anusree02/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Anusree02/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Anusree02/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anusree02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1013-fibonacci-number](https://github.com/Anusree02/Leetcode/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/Anusree02/Leetcode/tree/master/1260-day-of-the-year) |
 ## Binary Search
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anusree02/Leetcode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Anusree02/Leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Anusree02/Leetcode/tree/master/2058-concatenation-of-array) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Anusree02/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
