@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anusree02/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anusree02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Anusree02/Leetcode/tree/master/0792-binary-search) |
+| [1185-find-in-mountain-array](https://github.com/Anusree02/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1524-string-matching-in-an-array](https://github.com/Anusree02/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anusree02/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anusree02/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anusree02/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anusree02/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Anusree02/Leetcode/tree/master/0792-binary-search) |
+| [1185-find-in-mountain-array](https://github.com/Anusree02/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anusree02/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Anusree02/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0328-odd-even-linked-list](https://github.com/Anusree02/Leetcode/tree/master/0328-odd-even-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/Anusree02/Leetcode/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
