@@ -12,7 +12,9 @@ class Solution {
             if (g % nums[i] == 0) {
                 return i;
             }
-           
+            while (i + 1 < nums.length && nums[i] == nums[i + 1]) {
+                i++;
+            }
         }
 
         return -1;
