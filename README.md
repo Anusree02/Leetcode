@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Anusree02/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anusree02/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anusree02/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anusree02/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anusree02/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Anusree02/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anusree02/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anusree02/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anusree02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anusree02/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anusree02/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anusree02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Anusree02/Leetcode/tree/master/1013-fibonacci-number) |
 | [1260-day-of-the-year](https://github.com/Anusree02/Leetcode/tree/master/1260-day-of-the-year) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anusree02/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anusree02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anusree02/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Quickselect
 |  |
 | ------- |
@@ -234,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Anusree02/Leetcode/tree/master/1185-find-in-mountain-array) |
+## Number Theory
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Anusree02/Leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
