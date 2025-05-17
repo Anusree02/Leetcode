@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Anusree02/Leetcode/tree/master/0792-binary-search) |
 | [1185-find-in-mountain-array](https://github.com/Anusree02/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1524-string-matching-in-an-array](https://github.com/Anusree02/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anusree02/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Anusree02/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anusree02/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anusree02/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anusree02/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anusree02/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anusree02/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2358-number-of-ways-to-split-array](https://github.com/Anusree02/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## String
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anusree02/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Anusree02/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Anusree02/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anusree02/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Simulation
 |  |
