@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anusree02/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/Anusree02/Leetcode/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anusree02/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Anusree02/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anusree02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Anusree02/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anusree02/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Anusree02/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Anusree02/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anusree02/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Anusree02/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anusree02/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anusree02/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anusree02/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Anusree02/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anusree02/Leetcode/tree/master/0229-majority-element-ii) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Anusree02/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anusree02/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Prefix Sum
 |  |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anusree02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anusree02/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Anusree02/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Anusree02/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Anusree02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Anusree02/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Anusree02/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
