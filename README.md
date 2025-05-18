@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Anusree02/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anusree02/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Anusree02/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Anusree02/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## String Matching
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Anusree02/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Anusree02/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Anusree02/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Anusree02/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Simulation
 |  |
 | ------- |
