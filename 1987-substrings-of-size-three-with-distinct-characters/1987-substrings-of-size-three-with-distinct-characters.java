@@ -1,7 +1,7 @@
 class Solution {
     public int countGoodSubstrings(String s) {
         int l=0;
-        int r=0;
+        int r=2;
         int count=0;
         while(r<s.length())
         {
